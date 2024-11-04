@@ -92,7 +92,7 @@ export default function Navbar() {
         <Link href={'/contact'}><span className={pathName === '/contact' ? "font-semibold text-[#1E90FF]" : ""} ref={typedContact}></span></Link>
       </div>
       <div className='flex items-center'>
-        <Link href={'https://drive.google.com/file/d/1pE_4Y4fCo37e00ymL_rQfEf5IITAWWRp/view'} target='_blank' className='btn btn-outline rounded-badge text-white'>Resume</Link>
+        <Link href={'https://drive.google.com/file/d/14le0NGidp2sKg3ylhlFobSS3wiIWGvWW/view'} target='_blank' className='btn btn-outline rounded-badge text-white'>Resume</Link>
       </div>
     </div>
   )

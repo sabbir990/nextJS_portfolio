@@ -6,7 +6,7 @@ export default function Education() {
         <h2 className='text-white font-semibold text-2xl'>Education</h2>
         <p className='text-gray-500'>2023 - Preset</p>
         <p className='text-white'>Secondary School Certificate 2023(SSC)</p>
-        <p className='text-white'>Diploma in Computer Science(Current)</p>
+        <p className='text-white'>Diploma in Computer Science(2023 - Current)</p>
     </div>
   )
 }
